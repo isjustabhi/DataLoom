@@ -1,6 +1,6 @@
-# DataFlow Studio
+# DataLoom Studio
 
-DataFlow Studio is a single-page Vite + React application that turns uploaded CSV or Excel datasets into a four-stage analytics pipeline: ingest, refine, enrich, and deploy. The app profiles uploaded data in the browser, uses the OpenAI Chat Completions API for refinement and analytics recommendations, renders interactive charts with Recharts, and exports cleaned data plus deployment artifacts with no backend required.
+DataLoom Studio is a single-page Vite + React application that turns uploaded CSV or Excel datasets into a four-stage analytics pipeline: ingest, refine, enrich, and deploy. The app profiles uploaded data in the browser, uses the OpenAI Chat Completions API for refinement and analytics recommendations, renders interactive charts with Recharts, and exports cleaned data plus deployment artifacts with no backend required.
 
 ## Tech Stack
 
