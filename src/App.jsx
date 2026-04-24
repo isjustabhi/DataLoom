@@ -429,7 +429,7 @@ function App() {
                 <div className="mx-auto mb-5 flex h-16 w-16 items-center justify-center rounded-[20px] bg-gradient-to-br from-indigo-400 via-violet-400 to-cyan-300 text-2xl font-semibold text-[#07080D] shadow-[0_0_40px_rgba(129,140,248,0.32)]">
                   DF
                 </div>
-                <h1 className="text-3xl font-semibold tracking-tight text-slate-100 sm:text-4xl">DataFlow Studio</h1>
+                <h1 className="text-3xl font-semibold tracking-tight text-slate-100 sm:text-4xl">DataLoom</h1>
                 <p className="mt-3 text-base text-slate-400 sm:text-lg">Upload. Transform. Analyze. Deploy.</p>
               </div>
 
